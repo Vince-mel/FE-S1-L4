@@ -1,0 +1,46 @@
+
+body { 
+    font-family: 'Poppins', sans-serif;   
+    background-image:url(/FE-S1-L4-Esercizio/assets/img/sfondo.png);
+    width: 500px;
+}
+/* HEADER */
+header
+
+.logo { 
+   border-style: solid;
+    border-color: #00ffff;
+    margin: 19px;
+    margin-left: 36px;
+    text-align: center;
+    width: 386px;
+    height: 256px;
+    background-color: rgb(44, 104, 133 );
+}
+
+header .logo img {
+    width: 260px;
+    height: auto;
+    padding-top: 25px;
+}
+
+header .logo h1 {
+    color: white;
+    font-weight: 550;
+    margin-top: 21px;
+}
+
+header .logo ol {
+    
+}
+/* MAIN */
+
+/* ELEMENTI NEL MAIN - ARTICLE */
+
+/* TABELLE */
+
+/* FORM */
+
+/* ELEMENTI NELL' ASIDE */
+
+/* FOOTER */
